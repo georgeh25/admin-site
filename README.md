@@ -1,6 +1,6 @@
 # Portfolio Admin
 
-Portfolio Admin is a web application for managing your personal portfolio. It allows you to easily update your projects, work experiences, skills, and personal information through a user-friendly interface.
+Portfolio Admin is a web application for managing my personal portfolio. It allows you to easily update my projects, work experiences, skills, and personal information through a user-friendly interface.
 
 ## Features
 
@@ -94,8 +94,7 @@ For production deployment, follow these steps:
 
 2. Set the following environment variables on your production server:
 
-   ```
-   NODE_ENV=production
+   ```   
    MONGODB_URI=your_production_mongodb_uri
    JWT_SECRET=your_production_jwt_secret
    PORT=your_production_port
@@ -114,22 +113,6 @@ For production deployment, follow these steps:
    yarn start
    ```
 
-For platforms like Heroku, the deployment process might be simplified. Ensure you set the environment variables in your hosting platform's dashboard or configuration.
+For platforms like Heroku or Vercel, the deployment process might be simplified. Ensure you set the environment variables in your hosting platform's dashboard or configuration.
 
-## Contributing
-
-Contributions to Portfolio Admin are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-branch-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-branch-name`
-5. Create a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-If you have any questions, feel free to reach out to [Your Name] at [your.email@example.com].
+If you have any questions, feel free to reach out me at jorgehome7@gmail.com.
